@@ -19,7 +19,7 @@ header {
     background-repeat: no-repeat;
     background-size: contain;
     margin: 3rem auto 0 auto;
-    /* border: 2px solid white; */
+    
 }
 
 .container1 {
@@ -85,7 +85,3 @@ label {
     color: white;
     
 }
-
-/* button {
-    width: 100%;
-} */
