@@ -4,7 +4,7 @@ https://cemkgrbz.github.io/uib-data-stylingforms-cemkgrbz/
 
 # Basic Data Exercises
 
-## Styling Forms
+## Styling Forms 
 
 **Instructions**:
 
