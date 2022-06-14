@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/images/background.jpg);
+    background-image: url(./images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: black;
@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-image: url(/images/logo.png);
+    background-image: url(./images/logo.png);
     height: 15em;
     width: 30em;
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ header {
     text-align: center;
     width: 30rem;
     margin: 1rem auto;
-    background-image: url(/images/transparent_white.png);
+    background-image: url(./images/transparent_white.png);
     padding: 1rem;
     color: rgb(75, 75, 75);
 }
